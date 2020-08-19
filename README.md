@@ -11,10 +11,16 @@ Welcome! As a technologist you'll always be learning. You're here to find some r
 ### Jerome "Captain America" Hardaway's Recommended Reading
 
 - Code
-- Cracking The Code Interview
 - Learning Javascript
 - Javascript The Definitive Guide
+- Learning Javascript Design Patterns
+- Refactoring Javascript
 - Learning React
+- Learning Node
+- Node: Up And Running
+- Cracking The Code Interview
+- Daily Coding Problem
+
 
 
 New submissions welcome - open up a PR on this repo!
